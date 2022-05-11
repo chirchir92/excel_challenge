@@ -15,4 +15,8 @@ The percent_funded column was created to determine the funds were raised to reac
 Stacked column bar chart shown can be filtered by country/region using the pivot table shown. The essence of this p.table and chart was to uncover the categories trend/perfomance based on their successful, failed or canceled campaign. 
 ![image](https://user-images.githubusercontent.com/104544617/167886042-97f79380-8665-46ff-84c4-ff7792cd776f.png)
 column bar chart shown can be filtered by country/region and category using the pivot table shown. The aim for this p.table and chart was to showcase the sub-categories trend/perfomance based on their successful, failed or canceled campaign. 
+![image](https://user-images.githubusercontent.com/104544617/167886697-55091d7e-6575-46a7-af52-816913a4c678.png)
+The main worksheet saved in unix timestamp was converted to gregorian calendar format dates. Pivot chart line graph was created using the converted dates, state and parent category to uncover trends of the successful, failed and canceled campaigns.
+
+# Bonus
 
