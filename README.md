@@ -11,4 +11,6 @@ Re-saved the data to avoid data loss and created a shareable link with regular u
 The percent_funded column was created to determine the funds were raised to reached its targeted goal of the campaign. additionally, average-donantion column was intended to show how much each campaign backer paid on average. Also, two new columns Category and Sub-category was created by splitting (Category & Sub-category) column. This step is important in cleanind the data and will be useful in the next steps. 
 
 # Pivot tables and charts
+![image](https://user-images.githubusercontent.com/104544617/167884703-540d198c-4143-4f7d-a397-2b81f77a8543.png)
+Stacked column bar chart shown can be filtered by country/region using the pivot table shown. The essence of this p.table and chart was to uncover the categories trend/perfomance based on their successful, failed or canceled campaign. 
 
