@@ -19,4 +19,13 @@ column bar chart shown can be filtered by country/region and category using the 
 The main worksheet saved in unix timestamp was converted to gregorian calendar format dates. Pivot chart line graph was created using the converted dates, state and parent category to uncover trends of the successful, failed and canceled campaigns.
 
 # Bonus
+![image](https://user-images.githubusercontent.com/104544617/167888243-adaab0a2-faca-4b1e-8e27-04c236e26084.png)
+COUNTIFS() formula was used to show how many projects whether (successful, failed or canceled) were launched within each range shown in the table (see excel workbook). Using the total the percentages of each categories were calculated in their respective goal range.
+
+# Statistical analysis
+The mean and median of the two dataset(successful&failed) DO NOT summarise the data more meaningfuly. For successful, the mean is larger than the median by a grate margin, therefore this points that there are more successful backers than they are not. Thus, the mean is most indicative of the data and gives a better position or location of the distribution.  The same is true for failed outcomes. But ideally, in this case to determine the appropriate statistic to represent the data we would consider the data rather than the context. 
+
+
+We have calculated mean and median  of the data, these central tendecies measure we important in calculating the variability of the data. The successful and failed backers count have high variability. The data have a very high spread that is evident from range, variance and standard deviation.  This makes sense becasue we can we use the measures of central tendencies and dispersion to check the variabity.
+![image](https://user-images.githubusercontent.com/104544617/167889991-c1db0248-e2f3-4dcd-912d-c870d1f24002.png)
 
