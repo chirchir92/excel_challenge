@@ -23,9 +23,10 @@ The main worksheet saved in unix timestamp was converted to gregorian calendar f
 COUNTIFS() formula was used to show how many projects whether (successful, failed or canceled) were launched within each range shown in the table (see excel workbook). Using the total the percentages of each categories were calculated in their respective goal range.
 
 # Statistical analysis
-The mean and median of the two dataset(successful&failed) DO NOT summarise the data more meaningfuly. For successful, the mean is larger than the median by a grate margin, therefore this points that there are more successful backers than they are not. Thus, the mean is most indicative of the data and gives a better position or location of the distribution.  The same is true for failed outcomes. But ideally, in this case to determine the appropriate statistic to represent the data we would consider the data rather than the context. 
+The mean and median of the two dataset(successful&failed) DO NOT summarise the data more meaningfuly. For successful, the mean is larger than the median by a great margin, therefore, this points that there are more successful backers than they are not. Thus, the mean is most indicative of the data and gives a better position or location of the distribution.  The same is true for failed outcomes. But ideally, in this case to determine the appropriate statistic to represent the data we would consider the data rather than the context that is intended to inform. 
 
+<img width="433" alt="Screen Shot 2022-05-12 at 1 39 25 am" src="https://user-images.githubusercontent.com/104544617/167890896-3210a2e2-b8fa-412f-b574-776543f1ff92.png">
 
-We have calculated mean and median  of the data, these central tendecies measure we important in calculating the variability of the data. The successful and failed backers count have high variability. The data have a very high spread that is evident from range, variance and standard deviation.  This makes sense becasue we can we use the measures of central tendencies and dispersion to check the variabity.
+We have calculated mean and median  of the data, these central tendecies measure are important in calculating the variability of the data. The successful and failed backers count have high variability. The data have a very high spread that is evident from range, variance and standard deviation.  This makes sense becasue we can we use the measures of central tendencies and dispersion to check the variabity.
 
 
