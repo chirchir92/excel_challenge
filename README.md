@@ -10,3 +10,5 @@ Re-saved the data to avoid data loss and created a shareable link with regular u
 <img width="1194" alt="main-worksheet" src="https://user-images.githubusercontent.com/104544617/167882592-9bba87b2-b827-4884-8281-706056554e3b.png">
 The percent_funded column was created to determine the funds were raised to reached its targeted goal of the campaign. additionally, average-donantion column was intended to show how much each campaign backer paid on average. Also, two new columns Category and Sub-category was created by splitting (Category & Sub-category) column. This step is important in cleanind the data and will be useful in the next steps. 
 
+# Pivot tables and charts
+
