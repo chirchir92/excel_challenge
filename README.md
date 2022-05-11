@@ -13,4 +13,6 @@ The percent_funded column was created to determine the funds were raised to reac
 # Pivot tables and charts
 ![image](https://user-images.githubusercontent.com/104544617/167884703-540d198c-4143-4f7d-a397-2b81f77a8543.png)
 Stacked column bar chart shown can be filtered by country/region using the pivot table shown. The essence of this p.table and chart was to uncover the categories trend/perfomance based on their successful, failed or canceled campaign. 
+![image](https://user-images.githubusercontent.com/104544617/167886042-97f79380-8665-46ff-84c4-ff7792cd776f.png)
+column bar chart shown can be filtered by country/region and category using the pivot table shown. The aim for this p.table and chart was to showcase the sub-categories trend/perfomance based on their successful, failed or canceled campaign. 
 
