@@ -7,6 +7,5 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 # Proposed solution
 Re-saved the data to avoid data loss and created a shareable link with regular uploads to keep the data secure. Conditionally formatted the (state & percent_funded) columns with diffrent colors to associate successful, failed and canceled campaigns.  
 
-
-
+<img width="1194" alt="main-worksheet" src="https://user-images.githubusercontent.com/104544617/167882592-9bba87b2-b827-4884-8281-706056554e3b.png">
 
