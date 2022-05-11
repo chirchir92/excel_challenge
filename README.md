@@ -27,5 +27,5 @@ The mean and median of the two dataset(successful&failed) DO NOT summarise the d
 
 
 We have calculated mean and median  of the data, these central tendecies measure we important in calculating the variability of the data. The successful and failed backers count have high variability. The data have a very high spread that is evident from range, variance and standard deviation.  This makes sense becasue we can we use the measures of central tendencies and dispersion to check the variabity.
-![image](https://user-images.githubusercontent.com/104544617/167889991-c1db0248-e2f3-4dcd-912d-c870d1f24002.png)
+
 
